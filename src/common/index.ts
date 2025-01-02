@@ -1,3 +1,1 @@
-export * from "./config"
-export * from "./regexs"
-export * from "./messages"
+export * from './config';
