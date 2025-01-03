@@ -1,0 +1,1 @@
+export const PASSWORD_VALIDATION_ERROR_MSG = "Password must be 8 to 32 characters long and contain at least one digit, one lowercase letter, and one uppercase letter"
